@@ -1,1 +1,4 @@
-# 50-Python-Based-Projects
+Solutions here to:
+- 1 - 
+- 2 - 
+- 3 - 
