@@ -9,11 +9,11 @@ Python-Based Projects:
 - 8 - Screen Time Analysis
 - 9 - Stock Market Analysis
 - 10 - Smartwatch Data Analysis
-- 11 - 
-- 12 - 
-- 13 - 
-- 14 - 
-- 15 - 
+- 11 - Virat Kohli Performance Analysis
+- 12 - Google Search Analysis
+- 13 - Survey Analysis
+- 14 - Social Progress Index Analysis
+- 15 - Career Aspirations Survey Analysis
 - 16 - 
 - 17 - 
 - 18 - 
