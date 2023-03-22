@@ -1,9 +1,9 @@
 Python-Based Projects:
-- 1 - 
-- 2 - 
-- 3 - 
-- 4 - 
-- 5 - 
+- 1 - Demand & Supply Analysis
+- 2 - Recession Analysis
+- 3 - Algorithmic Trading
+- 4 - A/B Testing
+- 5 - T20 World Cup 2022 Analysis
 - 6 - 
 - 7 - 
 - 8 - 
