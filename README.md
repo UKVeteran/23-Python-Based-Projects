@@ -4,11 +4,11 @@ Python-Based Projects:
 - 3 - Algorithmic Trading
 - 4 - A/B Testing
 - 5 - T20 World Cup 2022 Analysis
-- 6 - 
-- 7 - 
-- 8 - 
-- 9 - 
-- 10 - 
+- 6 - Twitter Timeline in the Stock Market Analysis
+- 7 - Instagram Reach Analysis
+- 8 - Screen Time Analysis
+- 9 - Stock Market Analysis
+- 10 - Smartwatch Data Analysis
 - 11 - 
 - 12 - 
 - 13 - 
