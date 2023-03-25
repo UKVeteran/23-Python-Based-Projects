@@ -12,40 +12,8 @@ Python-Based Projects:
 - 11 - Virat Kohli Performance Analysis
 - 12 - Currency Exchange Rate Prediction
 - 13 - Survey Analysis
-- 14 - Career Aspirations Survey Analysis
-- 15 - iPhone Sales Analysis
-- 16 - Diamond Price Analysis
-- 17 - Covid-19 Impacts Analysis
-- 18 - IPL 2022 Analysis
-- 19 - Ukraine Vs Russia: Twitter Sentiment Analysis
-- 20 -
-- 21 - 
-- 22 - 
-- 23 - 
-- 24 - 
-- 25 - 
-- 26 - 
-- 27 - 
-- 28 - 
-- 29 - 
-- 30 - 
-- 31 - 
-- 32 - 
-- 33 -
-- 34 - 
-- 35 - 
-- 36 - 
-- 37 -  
-- 38 - 
-- 39 - 
-- 40 - 
-- 41 - 
-- 42 - 
-- 43 - 
-- 44 - 
-- 45 - 
-- 46 - 
-- 47 - 
-- 48 -
-- 49 - 
-- 50 - 
+- 14 - iPhone Sales Analysis
+- 15 - Diamond Price Analysis
+- 16 - Covid-19 Impacts Analysis
+- 17 - IPL 2022 Analysis
+- 18 - Ukraine Vs Russia: Twitter Sentiment Analysis
