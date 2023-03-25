@@ -10,7 +10,7 @@ Python-Based Projects:
 - 9 - Stock Market Analysis
 - 10 - Smartwatch Data Analysis
 - 11 - Virat Kohli Performance Analysis
-- 12 - Fake News Detection
+- 12 - Currency Exchange Rate Prediction
 - 13 - Survey Analysis
 - 14 - Social Progress Index Analysis
 - 15 - Career Aspirations Survey Analysis
