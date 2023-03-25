@@ -14,11 +14,11 @@ Python-Based Projects:
 - 13 - Survey Analysis
 - 14 - Social Progress Index Analysis
 - 15 - Career Aspirations Survey Analysis
-- 16 - 
-- 17 - 
-- 18 - 
-- 19 - 
-- 20 - 
+- 16 - iPhone Sales Analysis
+- 17 - Diamond Price Analysis
+- 18 - Covid-19 Impacts Analysis
+- 19 - IPL 2022 Analysis
+- 20 - Ukraine Vs Russia: Twitter Sentiment Analysis
 - 21 - 
 - 22 - 
 - 23 - 
