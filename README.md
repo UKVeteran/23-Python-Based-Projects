@@ -18,3 +18,4 @@ Python-Based Projects:
 - 17 - IPL 2022 Analysis
 - 18 - Ukraine Vs Russia: Twitter Sentiment Analysis
 - 19 - Uber Trips Analysis 
+- 20 - Waiter Tips Prediction
