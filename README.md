@@ -17,3 +17,4 @@ Python-Based Projects:
 - 16 - Covid-19 Impacts Analysis
 - 17 - IPL 2022 Analysis
 - 18 - Ukraine Vs Russia: Twitter Sentiment Analysis
+- 19 - Uber Trips Analysis 
