@@ -20,3 +20,4 @@ Python-Based Projects:
 - 19 - Uber Trips Analysis 
 - 20 - Waiter Tips Prediction
 - 21 - Squid Game Sentiment Analysis
+- 22 - Unemployment Analysis
