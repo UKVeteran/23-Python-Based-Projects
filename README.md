@@ -19,3 +19,4 @@ Python-Based Projects:
 - 18 - Ukraine Vs Russia: Twitter Sentiment Analysis
 - 19 - Uber Trips Analysis 
 - 20 - Waiter Tips Prediction
+- 21 - Squid Game Sentiment Analysis
