@@ -21,3 +21,4 @@ Python-Based Projects:
 - 20 - Waiter Tips Prediction
 - 21 - Squid Game Sentiment Analysis
 - 22 - Unemployment Analysis
+- 23 - Instagram Reach Analysis
